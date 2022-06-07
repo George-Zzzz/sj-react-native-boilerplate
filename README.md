@@ -1,10 +1,29 @@
 # :space_invader: React Native Boilerplate
 
-
 ## :arrow_forward: Usage
 
-```sh
+Init project
+
+```
 npx react-native init <your-project-name> --template https://github.com/George-Zzzz/sj-react-native-boilerplate
+```
+
+Install project dependencies
+
+```
+yarn
+```
+
+Launch the ios
+
+```
+yarn run ios
+```
+
+Launch the android
+
+```
+yarn run android
 ```
 
 ## :warning: React Native CLI
