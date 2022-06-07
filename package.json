@@ -1,18 +1,8 @@
 {
-  "name": "react-native-template-sj",
-  "version": "1.0.4",
-  "description": "react-native项目模板",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "main": "index.js",
-  "keywords": [
-    "react-native",
-    "typescript",
-    "jest",
-    "template",
-    "boilerplate"
-  ],
-  "author": "George.Z",
+  "name": "sj-react-native-boilerplate",
+  "version": "0.0.1",
+  "description": "React Native Simple Redux with Navigation Template",
+  "repository": "https://github.com/roycechua23/react-native-template-simpleredux-boilerplate1",
+  "author": "george",
   "license": "MIT"
 }
