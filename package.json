@@ -1,0 +1,18 @@
+{
+  "name": "react-native-template-sj",
+  "version": "1.0.4",
+  "description": "react-native项目模板",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "typescript",
+    "jest",
+    "template",
+    "boilerplate"
+  ],
+  "author": "George.Z",
+  "license": "MIT"
+}
